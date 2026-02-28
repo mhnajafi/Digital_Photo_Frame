@@ -1,0 +1,11 @@
+main.c:184:13:SRAM_Precharge	0	static
+main.c:221:13:SRAM_AutoRefresh	0	static
+main.c:255:13:SRAM_RowBankActive	4	static
+main.c:381:13:SRAM_BurstStop	0	static
+main.c:472:13:LCD_Hsync	24	static
+main.c:572:13:LCD_Show	24	static
+main.c:609:13:Slide_Show	64	static
+main.c:461:13:LCD_Display	16	static
+main.c:692:6:SystemClock_Config	96	static
+main.c:58:5:main	9352	static
+main.c:955:6:Error_Handler	0	static
