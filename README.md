@@ -43,3 +43,20 @@ The repository is organized into the following key directories:
    - Power on the device.
    - Use the remote to navigate through the slideshow (`LCD_Show`, `Slide_Show` functions).
 
+## Gallery
+
+### Hardware & PCB
+![PCB Top](Media/Pictures/PCB1.png)
+![PCB Bottom](Media/Pictures/PCB2.png)
+![Device 1](Media/Pictures/IMG_20210503_171553.jpg)
+![Device 2](Media/Pictures/IMG_20210503_171606.jpg)
+
+### Operation Demo
+![Demo 1](Media/Pictures/photo_2021-02-05_13-16-10.jpg)
+![Demo 2](Media/Pictures/photo_2021-02-09_18-07-52.jpg)
+![Demo 3](Media/Pictures/photo_2021-02-09_18-07-57.jpg)
+![Demo 4](Media/Pictures/photo_2021-02-09_18-08-00.jpg)
+![Demo 5](Media/Pictures/photo_2021-02-09_18-08-03.jpg)
+![Demo 6](Media/Pictures/photo_2021-02-14_13-31-53.jpg)
+![Demo 7](Media/Pictures/photo_2021-02-14_13-32-11.jpg)
+
